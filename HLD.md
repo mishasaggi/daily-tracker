@@ -1,5 +1,6 @@
 ## HLD
 
+
 ## Feature: Analytics
 
 ### FrontEnd
@@ -10,6 +11,7 @@
 
 ### DB
   Stats are stored in sql and queried by by type and time range
+
 
 ## Feature: Collect User data
 
@@ -22,6 +24,7 @@
 ### DB
   Save Stats in a relational db.
 
+
 ## Feature: Customization
 
 ### FrontEnd
@@ -32,3 +35,7 @@
 
 ### DB
   save settings in a user table
+
+## Feature: home page motivation
+  one simple insight or reminder according to past use, change, trend, etc
+
