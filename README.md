@@ -1,6 +1,6 @@
 ## daily-tracker
 
-track daily habits and see pattern of their effect on productivity and mood.
+Track daily habits and see trends and patterns of their effect on productivity and mood.
 
 ### Requirements
 
